@@ -34,7 +34,7 @@ To write a Python program to perform addition and division operations using a cl
 
 ### PROGRAM
 
-```
+```python
 a=int(input())
 b=int(input())
 print(a+b)

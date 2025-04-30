@@ -22,7 +22,7 @@ To create a Python program that prompts the user for a list of grades separated 
 
 ### PROGRAM
 
-```
+```python
 a=input()
 try:
     g = [int(grade) for grade in a.split(',')]

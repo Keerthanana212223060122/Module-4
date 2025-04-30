@@ -29,7 +29,7 @@ To write a Python program that reads a file and counts the frequency of each cha
 
 ### PROGRAM
 
-```
+```python
 from collections import defaultdict
 
 
